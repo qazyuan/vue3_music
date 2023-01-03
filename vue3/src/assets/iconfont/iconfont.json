@@ -1,0 +1,44 @@
+{
+  "id": "2272977",
+  "name": "musicv3",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2049016",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "2679660",
+      "name": "独家",
+      "font_class": "dujia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9928436",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "10747022",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11673569",
+      "name": "delete",
+      "font_class": "delete1",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    }
+  ]
+}
